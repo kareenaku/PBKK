@@ -1,0 +1,16 @@
+C:\Users\W I N D O W S\source\repos\login\login\bin\Debug\login.exe.config
+C:\Users\W I N D O W S\source\repos\login\login\bin\Debug\login.exe
+C:\Users\W I N D O W S\source\repos\login\login\bin\Debug\login.pdb
+C:\Users\W I N D O W S\source\repos\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\W I N D O W S\source\repos\login\login\obj\Debug\login.csproj.SuggestedBindingRedirects.cache
+C:\Users\W I N D O W S\source\repos\login\login\obj\Debug\MainWindow.g.cs
+C:\Users\W I N D O W S\source\repos\login\login\obj\Debug\App.g.cs
+C:\Users\W I N D O W S\source\repos\login\login\obj\Debug\login_MarkupCompile.cache
+C:\Users\W I N D O W S\source\repos\login\login\obj\Debug\login_MarkupCompile.lref
+C:\Users\W I N D O W S\source\repos\login\login\obj\Debug\MainWindow.baml
+C:\Users\W I N D O W S\source\repos\login\login\obj\Debug\login.g.resources
+C:\Users\W I N D O W S\source\repos\login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\W I N D O W S\source\repos\login\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\W I N D O W S\source\repos\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\W I N D O W S\source\repos\login\login\obj\Debug\login.exe
+C:\Users\W I N D O W S\source\repos\login\login\obj\Debug\login.pdb
