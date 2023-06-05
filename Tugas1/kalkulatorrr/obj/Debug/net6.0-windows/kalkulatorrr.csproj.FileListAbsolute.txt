@@ -1,0 +1,17 @@
+C:\Users\W I N D O W S\source\repos\kalkulatorrr\kalkulatorrr\bin\Debug\net6.0-windows\kalkulatorrr.exe
+C:\Users\W I N D O W S\source\repos\kalkulatorrr\kalkulatorrr\bin\Debug\net6.0-windows\kalkulatorrr.deps.json
+C:\Users\W I N D O W S\source\repos\kalkulatorrr\kalkulatorrr\bin\Debug\net6.0-windows\kalkulatorrr.runtimeconfig.json
+C:\Users\W I N D O W S\source\repos\kalkulatorrr\kalkulatorrr\bin\Debug\net6.0-windows\kalkulatorrr.dll
+C:\Users\W I N D O W S\source\repos\kalkulatorrr\kalkulatorrr\bin\Debug\net6.0-windows\kalkulatorrr.pdb
+C:\Users\W I N D O W S\source\repos\kalkulatorrr\kalkulatorrr\obj\Debug\net6.0-windows\kalkulatorrr.csproj.AssemblyReference.cache
+C:\Users\W I N D O W S\source\repos\kalkulatorrr\kalkulatorrr\obj\Debug\net6.0-windows\kalkulatorrr.Form1.resources
+C:\Users\W I N D O W S\source\repos\kalkulatorrr\kalkulatorrr\obj\Debug\net6.0-windows\kalkulatorrr.csproj.GenerateResource.cache
+C:\Users\W I N D O W S\source\repos\kalkulatorrr\kalkulatorrr\obj\Debug\net6.0-windows\kalkulatorrr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W I N D O W S\source\repos\kalkulatorrr\kalkulatorrr\obj\Debug\net6.0-windows\kalkulatorrr.AssemblyInfoInputs.cache
+C:\Users\W I N D O W S\source\repos\kalkulatorrr\kalkulatorrr\obj\Debug\net6.0-windows\kalkulatorrr.AssemblyInfo.cs
+C:\Users\W I N D O W S\source\repos\kalkulatorrr\kalkulatorrr\obj\Debug\net6.0-windows\kalkulatorrr.csproj.CoreCompileInputs.cache
+C:\Users\W I N D O W S\source\repos\kalkulatorrr\kalkulatorrr\obj\Debug\net6.0-windows\kalkulatorrr.dll
+C:\Users\W I N D O W S\source\repos\kalkulatorrr\kalkulatorrr\obj\Debug\net6.0-windows\refint\kalkulatorrr.dll
+C:\Users\W I N D O W S\source\repos\kalkulatorrr\kalkulatorrr\obj\Debug\net6.0-windows\kalkulatorrr.pdb
+C:\Users\W I N D O W S\source\repos\kalkulatorrr\kalkulatorrr\obj\Debug\net6.0-windows\kalkulatorrr.genruntimeconfig.cache
+C:\Users\W I N D O W S\source\repos\kalkulatorrr\kalkulatorrr\obj\Debug\net6.0-windows\ref\kalkulatorrr.dll
